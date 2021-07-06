@@ -1,0 +1,134 @@
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventarios_Windows.exe.config
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventarios_Windows.exe
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventarios_Windows.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Entidades.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Negocio.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Datos.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Entidades.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Negocio.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Datos.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csprojAssemblyReference.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Acercade.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.AdministracionPerfiles.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Categorias.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Articulos.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.BuscarEntradas.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.FormsBusqueda.BuscarArticulos.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Login.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.MenuPrincipal.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteUtilidad.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteGlobal.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.RevisarStock.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Salidas.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Entradas.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Properties.Resources.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csproj.GenerateResource.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csproj.CoreCompileInputs.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csproj.CopyComplete
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.exe
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Empresas.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.FormsBusqueda.BuscarProveedores.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.FormsBusqueda.AgregarArticulos.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.RevisarEntradas.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.RevisarSalidas.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteEgresos.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteIngresos.resources
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Reportes.ReporteEntrada.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventarios_Windows.exe.config
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventarios_Windows.exe
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventarios_Windows.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Entidades.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Negocio.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Datos.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Entidades.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Negocio.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Inventario.Datos.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Acercade.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.AdministracionPerfiles.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Empresas.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Categorias.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Articulos.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.FormsBusqueda.AgregarArticulos.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.FormsBusqueda.BuscarProveedores.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.BuscarEntradas.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.FormsBusqueda.BuscarArticulos.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Login.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.MenuPrincipal.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteIngresos.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteEgresos.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteUtilidad.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.ReporteGlobal.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.RevisarSalidas.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.RevisarEntradas.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.RevisarStock.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Salidas.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Entradas.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Properties.Resources.resources
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.csproj.CopyComplete
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.exe
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\RdlCompile.cache
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\RdlCompile.compiled
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\EnvDTE.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\stdole.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\Microsoft.MSXML.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventarios_Windows\obj\Release\Inventarios_Windows.Reportes.ReporteUtilidad.resources

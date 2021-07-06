@@ -1,0 +1,11 @@
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\obj\Debug\Inventario.Negocio.csprojAssemblyReference.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\obj\Debug\Inventario.Negocio.csproj.CoreCompileInputs.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\bin\Debug\Inventario.Negocio.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\bin\Debug\Inventario.Negocio.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\bin\Debug\Inventario.Datos.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\bin\Debug\Inventario.Entidades.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\bin\Debug\Inventario.Datos.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\bin\Debug\Inventario.Entidades.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\obj\Debug\Inventario.Negocio.csproj.CopyComplete
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\obj\Debug\Inventario.Negocio.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Negocio\obj\Debug\Inventario.Negocio.pdb

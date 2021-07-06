@@ -1,0 +1,96 @@
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Datos.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Datos.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Entidades.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Data.SqlClient.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.AccessControl.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Permissions.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Principal.Windows.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Entidades.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Data.SqlClient.xml
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.AccessControl.xml
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Permissions.xml
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Principal.Windows.xml
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.csprojAssemblyReference.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.csproj.CoreCompileInputs.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.csproj.CopyComplete
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Cigarreria Mi Chatica\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Datos.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Datos.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Entidades.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Data.SqlClient.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.AccessControl.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Permissions.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Inventario.Entidades.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Data.SqlClient.xml
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.AccessControl.xml
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Permissions.xml
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.csproj.CopyComplete
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\obj\Release\Inventario.Datos.pdb
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\EnvDTE.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\stdole.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\Microsoft.MSXML.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software Escritorio\Sistema De Inventarios\Inventario.Datos\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
